@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
