@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3838-weighted-word-mapping](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
