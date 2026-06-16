@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3612-process-string-with-special-operations-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
