@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
+| [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
