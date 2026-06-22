@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
