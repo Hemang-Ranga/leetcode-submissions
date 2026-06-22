@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
