@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
