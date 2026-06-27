@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
