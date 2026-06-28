@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
