@@ -13,7 +13,9 @@ public:
                     a={nums[i], nums[j], nums[k]};
                     ans.push_back(a);
                     j++;
-                    while(j<n && nums[j-1]==nums[j]) j++;
+                    k--;
+                    while(j<k && nums[j-1]==nums[j]) j++;
+                    while(k>j && nums[k]==nums[k+1])  k--;  
                 }
                 else if(nums[j]+nums[k] < -nums[i]) j++;
                 else k--;
