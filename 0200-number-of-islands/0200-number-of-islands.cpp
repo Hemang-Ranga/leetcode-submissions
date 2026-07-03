@@ -1,15 +1,24 @@
 class Solution {
 public:
-    void dfs(int r, int c, vector<vector<char>> &grid, vector<vector<bool>> &vis){
+    void bfs(int row, int col, vector<vector<char>>& grid, vector<vector<bool>> &vis){
         int m=grid.size(), n=grid[0].size();
-        int delrow[] = {-1,0,1,0};
-        int delcol[] = {0,1,0,-1};
-        vis[r][c]=true;
-        for(int i=0; i<4; i++){
-            int nr = r + delrow[i];
-            int nc = c + delcol[i];
-            if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]=='1'){
-                if (!vis[nr][nc]) dfs(nr,nc,grid,vis);
+        int dr[] = {-1,0,1,0};
+        int dc[] = {0,1,0,-1};
+        queue<pair<int,int>> q;
+        q.push({row,col});
+        while(!q.empty()){
+            auto p = q.front();
+            q.pop();
+            int r=p.first, c=p.second;
+            for(int i=0; i<4; i++){
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+                if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]=='1'){
+                    if(!vis[nr][nc]){
+                        q.push({nr,nc});
+                        vis[nr][nc]=true;
+                    }
+                }
             }
         }
     }
@@ -21,7 +30,7 @@ public:
             for(int j=0; j<n; j++){
                 if(grid[i][j]=='1' && !visited[i][j]){
                     cnt++;
-                    dfs(i,j,grid,visited);
+                    bfs(i,j,grid,visited);
                 }
             }
         }
