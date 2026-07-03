@@ -176,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
@@ -218,5 +220,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
