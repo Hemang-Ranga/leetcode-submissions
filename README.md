@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
