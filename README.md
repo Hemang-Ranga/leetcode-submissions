@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Union-Find
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
