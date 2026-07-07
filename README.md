@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
