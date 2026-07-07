@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0704-binary-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
+| [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
