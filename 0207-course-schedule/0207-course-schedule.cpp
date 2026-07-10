@@ -21,7 +21,7 @@ public:
         vector<bool> visited(numCourses, false);
         vector<bool> RecStack(numCourses, false);
         for (auto i : prerequisites) {
-            adjlist[i[0]].push_back(i[1]);
+            adjlist[i[1]].push_back(i[0]);
         }
         for (int i = 0; i < numCourses; i++) {
             if (!visited[i]) {
