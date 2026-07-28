@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
