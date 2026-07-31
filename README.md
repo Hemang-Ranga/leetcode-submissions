@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3163-string-compression-iii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3163-string-compression-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
