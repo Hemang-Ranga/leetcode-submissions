@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0207-course-schedule) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
