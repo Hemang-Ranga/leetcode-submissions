@@ -4,21 +4,17 @@ public:
     int f(long long n) {
         if (n == 0)
             return 1;
-        if (n == 1)
-            return 20;
-
         long long temp = f(n / 2);
         long long ans = (temp * temp) % M;
-        if (n % 2 == 0)
-            return ans;
-        else
-            return (20 * ans) % M;
+        if (n % 2 == 1)
+            ans = (20LL * ans) % M;
+        return ans;
     }
 
     int countGoodNumbers(long long n) {
         if (n == 1)
             return 5;
-        int x = f(n / 2);
+        int x = f(n / 2) % M;
         if (n % 2 == 0)
             return x;
         else
