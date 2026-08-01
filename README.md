@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -326,5 +329,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1922-count-good-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
