@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1922-count-good-numbers](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
@@ -325,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
