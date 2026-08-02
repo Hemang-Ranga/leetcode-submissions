@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
