@@ -3,8 +3,6 @@ public:
     vector<string> validStrings(int n) {
         if (n == 1)
             return {"0", "1"};
-        if (n == 2)
-            return {"01", "10", "11"};
         vector<string> ans;
         for (auto i : validStrings(n - 1)) {
             ans.push_back(i + "1");
