@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
+| [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
+| [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
