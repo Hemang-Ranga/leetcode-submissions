@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Segment Tree
 |  |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
