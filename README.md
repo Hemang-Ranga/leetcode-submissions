@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
