@@ -8,7 +8,6 @@ public:
             if (s[j] >= g[i])
                 i++;
             j++;
-            cout << i << j;
         }
         return i;
     }
