@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
