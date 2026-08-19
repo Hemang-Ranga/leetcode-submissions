@@ -2,14 +2,14 @@ class Solution {
 public:
     void solve(vector<int>& nums, vector<vector<int>>& ans, vector<int> curr,
                int ind) {
-        ans.push_back(curr);
-        if (ind >= nums.size())
+        if (ind >= nums.size()) {
+            ans.push_back(curr);
             return;
-        for (int i = ind; i < nums.size(); i++) {
-            curr.push_back(nums[i]);
-            solve(nums, ans, curr, i + 1);
-            curr.pop_back();
         }
+        curr.push_back(nums[ind]);
+        solve(nums, ans, curr, ind + 1);
+        curr.pop_back();
+        solve(nums, ans, curr, ind + 1);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
