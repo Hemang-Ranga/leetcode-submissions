@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0136-single-number) |
+| [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2029-stone-game-ix) |
