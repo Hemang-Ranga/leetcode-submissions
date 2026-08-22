@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Segment Tree
