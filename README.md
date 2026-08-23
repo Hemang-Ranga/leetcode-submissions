@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0118-pascals-triangle) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0216-combination-sum-iii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0207-course-schedule) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0419-battleships-in-a-board) |
