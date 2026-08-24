@@ -1,26 +1,8 @@
 class Solution {
 public:
-    bool isvalid(vector<string>& board, int r, int c) {
-        r--;
-        int i = r, n = board.size();
-        while (i >= 0) {
-            if (board[i--][c] == 'Q')
-                return false;
-        }
-        i = r;
-        int j = c - 1;
-        while (i >= 0 && j >= 0) {
-            if (board[i--][j--] == 'Q')
-                return false;
-        }
-        i = r, j = c + 1;
-        while (i >= 0 && j <= n) {
-            if (board[i--][j++] == 'Q')
-                return false;
-        }
-        return true;
-    }
-
+    unordered_set<int> col;
+    unordered_set<int> diag;
+    unordered_set<int> antiDiag;
     void solve(vector<string>& board, int r, vector<vector<string>>& ans) {
         int n = board.size();
         if (r == n) {
@@ -28,21 +10,27 @@ public:
             return;
         }
         for (int c = 0; c < n; c++) {
-            if (isvalid(board, r, c)) {
-                board[r][c] = 'Q';
-                solve(board, r + 1, ans);
-                board[r][c] = '.';
-            }
+            if (col.find(c) != col.end() || diag.find(r + c) != diag.end() ||
+                antiDiag.find(r - c) != antiDiag.end())
+                continue;
+
+            board[r][c] = 'Q';
+            col.insert(c);
+            diag.insert(r + c);
+            antiDiag.insert(r - c);
+
+            solve(board, r + 1, ans);
+
+            board[r][c] = '.';
+            col.erase(c);
+            diag.erase(r + c);
+            antiDiag.erase(r - c);
         }
     }
 
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        string s = "";
-        for (int i = 0; i < n; i++) {
-            s += ".";
-        }
-        vector<string> board(n, s);
+        vector<string> board(n, string(n, '.'));
         solve(board, 0, ans);
         return ans;
     }
