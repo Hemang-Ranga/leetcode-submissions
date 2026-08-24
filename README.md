@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0200-number-of-islands) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 ## Minimax
 |  |
 | ------- |
@@ -419,4 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
