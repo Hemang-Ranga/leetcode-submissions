@@ -9,13 +9,6 @@ public:
             return 0;
         if (dp[r][c] != -1)
             return dp[r][c];
-        if (r > 0 && c > 0 && obstacleGrid[r - 1][c] == 1 &&
-            obstacleGrid[r][c - 1] == 1)
-            return 0;
-        if (r > 0 && obstacleGrid[r - 1][c] == 1)
-            return dp[r][c] = f(r, c - 1, obstacleGrid, dp);
-        if (c > 0 && obstacleGrid[r][c - 1] == 1)
-            return dp[r][c] = f(r - 1, c, obstacleGrid, dp);
         return dp[r][c] = f(r - 1, c, obstacleGrid, dp) +
                           f(r, c - 1, obstacleGrid, dp);
     }
