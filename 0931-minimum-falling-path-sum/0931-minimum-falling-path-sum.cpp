@@ -1,27 +1,26 @@
 class Solution {
 public:
-    int f(int r, int c, vector<vector<int>>& matrix, vector<vector<int>>& dp) {
-        int n = matrix.size();
-        if (c < 0 || c >= n)
-            return INT_MAX;
-        if (r == 0)
-            return matrix[0][c];
-        if (dp[r][c] != INT_MAX)
-            return dp[r][c];
-        int mini = min({f(r - 1, c - 1, matrix, dp), f(r - 1, c, matrix, dp),
-                        f(r - 1, c + 1, matrix, dp)});
-        return dp[r][c] = matrix[r][c] + mini;
-    }
-
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
         if (n == 1)
             return matrix[0][0];
         vector<vector<int>> dp(n, vector<int>(n, INT_MAX));
-        int mini = INT_MAX;
-        for (int i = 0; i < n; i++) {
-            mini = min(f(n - 1, i, matrix, dp), mini);
+        dp[0] = matrix[0];
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int left = INT_MAX;
+                if (j > 0)
+                    left = dp[i - 1][j - 1];
+
+                int middle = dp[i - 1][j];
+
+                int right = INT_MAX;
+                if (j < n - 1)
+                    right = dp[i - 1][j + 1];
+
+                dp[i][j] = matrix[i][j] + min({left, middle, right});
+            }
         }
-        return mini;
+        return *min_element(dp[n - 1].begin(), dp[n - 1].end());
     }
 };
