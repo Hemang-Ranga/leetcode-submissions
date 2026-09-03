@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1922-count-good-numbers) |
 ## Game Theory
