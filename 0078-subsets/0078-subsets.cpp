@@ -1,20 +1,16 @@
 class Solution {
 public:
-    void solve(int i, vector<int>& curr, vector<int>& nums, vector<vector<int>>& ans){
-        if(i==nums.size()){
-            ans.push_back(curr);
-            return;
-        }
-        curr.push_back(nums[i]);
-        solve(i+1, curr, nums, ans);
-        curr.pop_back();
-        solve(i+1, curr, nums, ans);
-    }
-
     vector<vector<int>> subsets(vector<int>& nums) {
+        int n = nums.size();
+        int total_subsets = 1<<n; //2^n
         vector<vector<int>> ans;
-        vector<int> curr;
-        solve(0,curr,nums,ans);
+        for(int mask=0; mask<total_subsets; mask++){
+            vector<int> curr;
+            for(int i=0; i<n; i++){
+                if(mask & (1<<i)) curr.push_back(nums[i]);
+            }
+            ans.push_back(curr);
+        }
         return ans;
     }
 };
