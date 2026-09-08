@@ -7,18 +7,19 @@ public:
         }
         if(sum&1) return false;
         int target = sum/2;
-        vector<vector<int>> dp(n+1, vector<int>(target+1, 0));
 
-        dp[n][0] = 1;
-
+        vector<int> prev(target+1);
+        prev[0] = 1;
         for(int i = n-1; i >= 0; i--){
+            vector<int> curr(target+1);
             for(int k = 0; k <= target; k++){
                 bool take = false;
-                if(k >= nums[i]) take = dp[i+1][k - nums[i]];
-                bool notTake = dp[i+1][k];
-                dp[i][k] = take || notTake;
+                if(k >= nums[i]) take = prev[k - nums[i]];
+                bool notTake = prev[k];
+                curr[k] = take || notTake;
             }
+            prev=curr;
         }
-        return dp[0][target];
+        return prev[target];
     }
 };
