@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1710-maximum-units-on-a-truck](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/2029-stone-game-ix) |
