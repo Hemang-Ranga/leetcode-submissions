@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
