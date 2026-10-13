@@ -1,16 +1,14 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums) {
-        int n=nums.size(), cnt=0, s=0;
-        unordered_map<int,int> m;
-        for(int i=0; i<n; i++){
-            m[i] = s+nums[i];
-            s+=nums[i];
+        int tsum=0, lsum=0, rsum=0, cnt=0;
+        for(int i: nums){
+            tsum+=i;
         }
-        for(int i=0; i<n-1; i++){
-            int s1 = m[i];
-            int s2 = s-m[i];
-            if((s1-s2)%2==0) cnt++;
+        for(int i=0; i<nums.size()-1; i++){
+            lsum += nums[i];
+            rsum = tsum-lsum;
+            if(abs(lsum-rsum)%2==0) cnt++;
         }
         return cnt;
     }
