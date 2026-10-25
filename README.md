@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/0595-big-countries) |
+| [1251-average-selling-price](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1251-average-selling-price) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hemang-Ranga/leetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Longest Increasing Subsequence
 |  |
